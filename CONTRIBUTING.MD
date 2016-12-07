@@ -6,7 +6,7 @@ We're glad you want to contribute to Chef managed community cookbooks! The first
 
 Not every contribution comes in the form of code. Submitting, confirming, and triaging issues is an important task for any project. At Chef we use GitHub to track all project issues.
 
-All of our cookbooks can be found in our [GitHub organization](https://github.com/chef-client/). All cookbooks include GitHub issue templates to help gather information needed for a thorough review.
+All of our cookbooks can be found in our [GitHub organization](https://github.com/Shopify/chef-client). All cookbooks include GitHub issue templates to help gather information needed for a thorough review.
 
 We ask you not to submit security concerns via GitHub. For details on submitting potential security issues please see <https://www.chef.io/security/>
 
